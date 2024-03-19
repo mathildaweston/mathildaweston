@@ -7,11 +7,10 @@
 </p>
 
 
-<h3 align="left">🔭 I’m currently making a career change to Data Science</h3>
+<h5 align="left">🔭 I’m currently making a career change to Data Science</h5>
+<h5 align="left">🗣️ I have been working on training a convolutional neural network to lip read</h5>
+<h5 align="left">🌱 I’m currently learning sentiment analysis with Word2Vec</h5>
 
-🔭 I’m currently making a career change to Data Science
-🗣️ I have been working on training a convolutional neural network to lip read 
-🌱 I’m currently learning sentiment analysis with Word2Vec
 
 
 - 📫 How to reach me: ...
