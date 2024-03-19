@@ -3,18 +3,17 @@
 
 <body>
 
-  <h5></h5>
   <p>🔭 I am currently making a career change to Data Science.</p>
 
-  <h5></h5>
   <p>🗣️ I have been working on training a convolutional neural network to lip read.</p>
 
-  <h5></h5>
   <p>🌱 I am currently learning sentiment analysis with Word2Vec.</p>
+
+  <h5 align="left">📫 How to reach me: mathildaweston@gmail.com</h5>
+
 
 </body>
 
-<h5 align="left">📫 How to reach me: mathildaweston@gmail.com</h5>
 
 
 <h4 align="left">Connect with me:</h4>
