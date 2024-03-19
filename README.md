@@ -1,23 +1,7 @@
-
-  <h1>🔭 About Me</h1>
-  <p>I am currently making a career change to Data Science.</p>
-
-  <h1>🗣️ Current Project</h1>
-  <p>I have been working on training a convolutional neural network to lip read.</p>
-
-  <h1>🌱 Learning</h1>
-  <p>I am currently learning sentiment analysis with Word2Vec.</p>
-
-</body>
-</html>
-
-
-
-
 <h1 align="center">Hello, 👋 I'm Mathilda</h1>
 <h3 align="center">Data Scientist</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/mathildaweston" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mathildaweston" height="15" width="20" /></a>
 </p>
@@ -27,9 +11,8 @@
 <h5 align="left">🗣️ I have been working on training a convolutional neural network to lip read</h5>
 <h5 align="left">🌱 I’m currently learning sentiment analysis with Word2Vec</h5>
 
+<h5 align="left">📫 How to reach me: mathildaweston@gmail.com</h5>
 
-
-- 📫 How to reach me: ...
 
 
 <h3 align="left">Languages and Tools:</h3>
