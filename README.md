@@ -1,10 +1,18 @@
 <h1 align="center">Hello, 👋 I'm Mathilda</h1>
 <h3 align="center">Data Scientist</h3>
 
+<body>
 
-<h5 align="left">🔭 I’m currently making a career change to Data Science</h5>
-<h5 align="left">🗣️ I have been working on training a convolutional neural network to lip read</h5>
-<h5 align="left">🌱 I’m currently learning sentiment analysis with Word2Vec</h5>
+  <h5></h5>
+  <p>🔭 I am currently making a career change to Data Science.</p>
+
+  <h5></h5>
+  <p>🗣️ I have been working on training a convolutional neural network to lip read.</p>
+
+  <h5></h5>
+  <p>🌱 I am currently learning sentiment analysis with Word2Vec.</p>
+
+</body>
 
 <h5 align="left">📫 How to reach me: mathildaweston@gmail.com</h5>
 
