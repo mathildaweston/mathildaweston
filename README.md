@@ -1,3 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hello, 👋 I'm Mathilda</title>
+</head>
+<body>
+
+  <h1>🔭 About Me</h1>
+  <p>I am currently making a career change to Data Science.</p>
+
+  <h1>🗣️ Current Project</h1>
+  <p>I have been working on training a convolutional neural network to lip read.</p>
+
+  <h1>🌱 Learning</h1>
+  <p>I am currently learning sentiment analysis with Word2Vec.</p>
+
+</body>
+</html>
+
+
+
+
 <h1 align="center">Hello, 👋 I'm Mathilda</h1>
 <h3 align="center">Data Scientist</h3>
 
