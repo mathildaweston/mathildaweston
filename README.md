@@ -6,6 +6,9 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/mathildaweston" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mathildaweston" height="15" width="20" /></a>
 </p>
 
+
+<h3 align="left">🔭 I’m currently making a career change to Data Science</h3>
+
 🔭 I’m currently making a career change to Data Science
 🗣️ I have been working on training a convolutional neural network to lip read 
 🌱 I’m currently learning sentiment analysis with Word2Vec
