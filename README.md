@@ -1,15 +1,15 @@
-<h1 align="center">Hello, 👋 I'm Mathilda</h1>
-<h3 align="center">Data Scientist</h3>
+<h1 align="center">Hi, 👋 I'm Mathilda</h1>
+<h3 align="center">Software Engineering</h3>
 
 
 
 <body>
 
-  <p>🔭 I am currently making a career change to Data Science.</p>
+  <p>🔭 I currently work as a data engineer creating internal tools and analytics solutions for digital marketeers.</p>
 
-  <p>🗣️ I have been working on training a convolutional neural network to lip read.</p>
+  <p>📚 Aspiring Full Stack developer - I am currently learning React for front-end web development.</p>
 
-  <p>🌱 I am currently learning sentiment analysis with Word2Vec.</p>
+  <p>🗣️ I completed Le Wagon's Python for Data Science and Machine Learning Bootcamp where I trained a convolutional neural network to lip read.</p>
 
   <p>📫 How to reach me: mathildaweston@gmail.com</p>
 
